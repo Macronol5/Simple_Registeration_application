@@ -1,0 +1,6 @@
+UserDetails(name='MY OSSU Journey', phone='4545454545', email='dev.a.preetham5@gmail.com', country='india', aadhaar='232323232323', pan='2112122112')
+UserDetails(name='MY OSSU Journey', phone='4545454545', email='dev.a.preetham5@gmail.com', country='india', aadhaar='232323232323', pan='2112122112')
+UserDetails(name='MY OSSU Journey', phone='4545454545', email='dev.a.preetham5@gmail.com', country='india', aadhaar='232323232323', pan='2112122112')
+UserDetails(name='MY OSSU Journey', phone='4545454545', email='dev.a.preetham5@gmail.com', country='india', aadhaar='232323232323', pan='2112122112')
+UserDetails(name='MY OSSU Journey', phone='4545454545', email='dev.a.preetham5@gmail.com', country='india', aadhaar='232323232323', pan='2112122112')
+UserDetails(name='MY OSSU Journey', phone='4545454545', email='dev.a.preetham5@gmail.com', country='india', aadhaar='232323232323', pan='2112122112')

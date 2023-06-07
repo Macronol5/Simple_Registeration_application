@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Registration</title>
+</head>
+<body>
+    <h1>User Registration Form</h1>
+    <form action="/register" method="post">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br><br>
+
+        <label for="phone">Phone Number (10 digits):</label>
+        <input type="text" id="phone" name="phone" pattern="[0-9]{10}" required><br><br>
+
+        <label for="email">Email (example@gmail.com):</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="country">Country Name:</label>
+        <input type="text" id="country" name="country" required><br><br>
+
+        <label for="aadhaar">Aadhaar Number (12 digits):</label>
+        <input type="text" id="aadhaar" name="aadhaar" pattern="[0-9]{12}" required><br><br>
+
+        <label for="pan">PAN Number (10 digits, mixed with alphanumeric characters):</label>
+        <input type="text" id="pan" name="pan" pattern="[A-Za-z0-9]{10}" required><br><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
